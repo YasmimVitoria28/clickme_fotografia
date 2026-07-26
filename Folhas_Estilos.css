@@ -152,7 +152,7 @@ main {
 }
 
 .label-esportes { background-color: #8B7E56; }
-.label-familia  { background-color: #6B8E57; }
+.label-familia  { background-color: #411921; }
 .label-eventos  { background-color: #A63C3C; }
 .label-niver    { background-color: #C17F43; }
 .label-paisagem { background-color: #4A5D6E; }
@@ -191,7 +191,7 @@ main {
 .big  { grid-column: span 2; grid-row: span 2; }
 
 /* --- FAMÍLIA --- */
-.familia-bar { background-color: #6B8E57 !important; }
+.familia-bar { background-color: #411921 !important; }
 
 .familia-grid {
     display: grid;
