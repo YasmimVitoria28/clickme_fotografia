@@ -151,11 +151,11 @@ main {
     box-shadow: -2px 2px 5px rgba(0,0,0,0.3);
 }
 
-.label-esportes { background-color: #8B7E56; }
+.label-esportes { background-color: #21212c; }
 .label-familia  { background-color: #411921; }
 .label-eventos  { background-color: #A63C3C; }
 .label-niver    { background-color: #C17F43; }
-.label-paisagem { background-color: #4A5D6E; }
+.label-paisagem { background-color: #5c6115; }
 
 .logo-card img {
     background-color: transparent;
@@ -371,9 +371,9 @@ main {
 
 /* --- ESTILO ESPECÍFICO: PÁGINA PAISAGEM --- */
 
-/* Barra de título na cor #3d4f64 */
+
 .paisagem-title-bar {
-    background-color: #3d4f64; /* Azul acinzentado solicitado */
+    background-color: #5c6115;
     width: 100%;
     padding: 15px 40px;
     margin-bottom: 30px;
